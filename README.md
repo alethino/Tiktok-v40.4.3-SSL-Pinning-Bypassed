@@ -1,7 +1,7 @@
 # Tiktok-v40.4.3-SSL-Pinning-Bypassed
 Bypass Tiktok SSL pinning on Android devices. Latest version Tiktok v40.4.3
 
-### contact me
+
 **Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
 ## telegram: @Neo_Galaxy
 
